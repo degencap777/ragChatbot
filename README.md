@@ -44,7 +44,7 @@ This project is a dynamic AI chatbot that can be trained from various sources, s
 - Integration with popular messaging platforms and chat applications
 
 ## How to run
-- Clone the repository. `git clone https://github.com/catlover75926/real-time-data-chatbot`
+- Clone the repository. `git clone https://github.com/libraiger/ragChatbot`
 - Install the required packages by running `pip install -r requirements.txt`
 - Run celery `celery -A config worker --loglevel=info`
 - Run the command `python manage.py runserver`
