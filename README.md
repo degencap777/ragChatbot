@@ -6,12 +6,11 @@ https://lucid.app/lucidchart/278e37f4-6cea-42e0-9077-590b51e790ad/edit?invitatio
 
 ## First step: building simple tool functions that can extract the key words from the user prompt.
 ## Next step: Extend the current tool functions for categories like `inscriptions on tx`, etc
-![Uploading GXlrj3HbUAAF6yJ.jfif…]()
+![GXyALPUakAIoj3U](https://github.com/user-attachments/assets/39fa742c-6f30-450c-976e-92514136d72b)
 
 ## The way for extending is just adding more tool function.
 ## Next step: currently using `openai`, will change with `chain` or `agent`.
-![Uploading GXqJM0GboAEmvu2.jfif…]()
+![GXqJM0GboAEmvu2](https://github.com/user-attachments/assets/22f6fe59-4803-4d30-b912-52a745e2692c)
 
 ## MVP that can extract the keywords and invoke relevant APIs.
-![Uploading GXyALPUakAIoj3U.jfif…]()
-
+![GXlrj3HbUAAF6yJ](https://github.com/user-attachments/assets/099b4104-4d7c-415f-8f2a-4b07844efb73)
