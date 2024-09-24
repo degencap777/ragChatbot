@@ -1,5 +1,7 @@
 # Crypto-AI-RAG-Chatbot-Blockchain
 
+A cryptocurrency-focused AI chatbot that utilizes real-time on-chain blockchain data. This advanced chatbot is designed to engage in natural language Q&A interactions and can seamlessly invoke relevant APIs when users pose queries that necessitate API calls.
+
 ![369724736-8c135801-f340-444b-abb6-d421a87d9053](https://github.com/user-attachments/assets/4eda4527-9acc-4af9-a925-bff5974c3d1c)
 
 https://lucid.app/lucidchart/278e37f4-6cea-42e0-9077-590b51e790ad/edit?invitationId=inv_58843d40-76e4-48fa-9cef-139a245167d4&page=0_0#
