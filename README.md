@@ -14,3 +14,17 @@ https://lucid.app/lucidchart/278e37f4-6cea-42e0-9077-590b51e790ad/edit?invitatio
 
 ## MVP that can extract the keywords and invoke relevant APIs.
 ![GXlrj3HbUAAF6yJ](https://github.com/user-attachments/assets/099b4104-4d7c-415f-8f2a-4b07844efb73)
+
+## Returns the inscription activity on a given block_height
+```
+Q: Find me all the details on token Billy from the list.
+```
+```
+Q: What is the price of Popcat?
+Q: Ok, so what is current volume of Popcat?
+Q: Ok so how many holders does Popcat have?
+Q: Is there more buying than selling of Popcat today?
+Q: What is the CA?
+Q: What is pair address?
+Q: Buy me 100 SOL of PopCat.
+```
