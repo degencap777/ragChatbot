@@ -15,7 +15,7 @@ https://lucid.app/lucidchart/278e37f4-6cea-42e0-9077-590b51e790ad/edit?invitatio
 ## MVP that can extract the keywords and invoke relevant APIs.
 ![GXlrj3HbUAAF6yJ](https://github.com/user-attachments/assets/099b4104-4d7c-415f-8f2a-4b07844efb73)
 
-## Returns the inscription activity on a given block_height
+## Test with some questions
 ```
 Q: Find me all the details on token Billy from the list.
 ```
