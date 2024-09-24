@@ -1,4 +1,4 @@
-# AI-RAG-chatbot-cryptocurrency-onchaindata
+# Crypto-AI-RAG-Chatbot-Blockchain
 
 ![369724736-8c135801-f340-444b-abb6-d421a87d9053](https://github.com/user-attachments/assets/4eda4527-9acc-4af9-a925-bff5974c3d1c)
 
