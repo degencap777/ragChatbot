@@ -21,10 +21,22 @@ Q: Find me all the details on token Billy from the list.
 ```
 ```
 Q: What is the price of Popcat?
+```
+```
 Q: Ok, so what is current volume of Popcat?
+```
+```
 Q: Ok so how many holders does Popcat have?
+```
+```
 Q: Is there more buying than selling of Popcat today?
+```
+```
 Q: What is the CA?
+```
+```
 Q: What is pair address?
+```
+```
 Q: Buy me 100 SOL of PopCat.
 ```
