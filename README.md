@@ -2,7 +2,7 @@
 
 A cryptocurrency-focused AI chatbot that utilizes real-time on-chain blockchain data. This advanced chatbot is designed to engage in natural language Q&A interactions and can seamlessly invoke relevant APIs when users pose queries that necessitate API calls.
 
-## MVP
+## MVP (Token Buy/Sell)
 ![GZCY7bQbQAAlZab](https://github.com/user-attachments/assets/42228272-fa66-4bc9-bcd3-89afba12f9b9)
 ![GZZdI7masAIP0Gy](https://github.com/user-attachments/assets/59c207cf-2dc7-43d9-a227-ffdf4d50cc95)
 ![GZ2TA0HaoAA2Xbz](https://github.com/user-attachments/assets/d2f209b5-52f4-4af1-92d8-08c96e5b1fb7)
