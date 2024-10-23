@@ -33,3 +33,5 @@ Q: What is pair address?
 ```
 Q: Buy me 100 SOL of PopCat.
 ```
+
+! `wallet connect` is not supported in `http://`.
