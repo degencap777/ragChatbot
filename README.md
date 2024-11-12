@@ -2,13 +2,13 @@
 
 A cryptocurrency-focused AI chatbot that utilizes real-time on-chain blockchain data. This advanced chatbot is designed to engage in natural language Q&A interactions and can seamlessly invoke relevant APIs when users pose queries that necessitate API calls.
 
-## MVP (API Invoke)
+## MVP (Ordinal API Invoke)
 ![GXlrj3HbUAAF6yJ](https://github.com/user-attachments/assets/b65a77f3-4038-47b0-9cbf-0c2a05f94b62)
 ![GXqJM0GboAEmvu2](https://github.com/user-attachments/assets/446e5111-10f0-46a0-9739-656967b3a865)
 ![GXyALPUakAIoj3U](https://github.com/user-attachments/assets/6d82a586-2e99-4e3d-b282-cfdeda300a4b)
 
 
-## MVP (Token Buy/Sell)
+## MVP (Solana Token Buy/Sell)
 ![GZCY7bQbQAAlZab](https://github.com/user-attachments/assets/42228272-fa66-4bc9-bcd3-89afba12f9b9)
 ![GZZdI7masAIP0Gy](https://github.com/user-attachments/assets/59c207cf-2dc7-43d9-a227-ffdf4d50cc95)
 ![GZ2TA0HaoAA2Xbz](https://github.com/user-attachments/assets/d2f209b5-52f4-4af1-92d8-08c96e5b1fb7)
