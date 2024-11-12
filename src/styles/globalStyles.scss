@@ -1,0 +1,41 @@
+$breakpoints: (
+  "xxm": 516px,
+  "xm": 540px,
+  "sxm": 727px,
+  "sm": 810px,
+  "msm": 850px,
+  "md": 1180px,
+  "lg": 1280px,
+  "xl": 1440px,
+  "xxl": 1920px,
+);
+
+@mixin breakpoint($name) {
+  @media (max-width: map-get($breakpoints, $name)) {
+    @content;
+  }
+}
+
+@mixin flexAlignCenter {
+  display: flex;
+  align-items: center;
+}
+
+@mixin flexJustifyCenter {
+  display: flex;
+  justify-content: center;
+}
+
+@mixin flexCenter {
+  @include flexAlignCenter;
+  justify-content: center;
+}
+
+@mixin sectionPadding {
+  padding: 40px 0 60px;
+}
+
+@mixin container {
+  max-width: 1440px;
+  margin: auto;
+}
