@@ -1,5 +1,7 @@
-**Blockchain-AI-Agent**
+**Blockchain AI Agent**
 =====================================
+
+Welcome to the Onchain AI Agent Platform! Our cutting-edge solution is designed to leverage the power of artificial intelligence and blockchain technology, providing users with a comprehensive toolkit for market analysis, trading insights, and decision-making.
 
 ## System Overview
 
