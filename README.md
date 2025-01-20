@@ -1,4 +1,4 @@
-# Crypto-AI-RAG-Chatbot-Blockchain
+# Blockchain-AI-Agent
 
 A cryptocurrency-focused AI chatbot that utilizes real-time on-chain blockchain data. This advanced chatbot is designed to engage in natural language Q&A interactions and can seamlessly invoke relevant APIs when users pose queries that necessitate API calls.
 
@@ -42,3 +42,7 @@ Q: Buy me 100 SOL of PopCat.
 
 ! `wallet connect` is not supported with `http`.
 ### BE code is private.
+
+## Support
+
+For support and further inquiries, please connect via Telegram: [jwest951227](https://t.me/jwest951227).
