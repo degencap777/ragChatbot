@@ -1,6 +1,35 @@
-# Blockchain-AI-Agent
+**Blockchain-AI-Agent**
+=====================================
 
-A cryptocurrency-focused AI chatbot that utilizes real-time on-chain blockchain data. This advanced chatbot is designed to engage in natural language Q&A interactions and can seamlessly invoke relevant APIs when users pose queries that necessitate API calls.
+## System Overview
+
+### 1. Data Aggregation
+
+This core module focuses on collecting and structuring data through:
+
+- **Financial Market Data**: Access real-time and historical data from decentralized and centralized exchanges using APIs like CoinGecko, CoinMarketCap, Binance, and Kraken.
+  
+- **Social Sentiment Data**: Gather insights from platforms such as X (formerly Twitter), Reddit, and Discord using sentiment analysis tools to track community trends.
+  
+- **News Aggregation**: Consolidate relevant financial news through RSS feeds and APIs, using AI models to summarize key information for users.
+
+### 2. Analytical Insights
+
+This module analyzes the collected data to provide actionable insights:
+
+- **Machine Learning and AI**: Use predictive analytics and Natural Language Processing for market forecasts and sentiment evaluations.
+  
+- **Tailored Trading Strategies**: Develop unique trading signals by backtesting historical data to validate the strategies, employing various methods like momentum-based approaches.
+
+---
+
+## Features
+
+- **Onchain Data Support**: Direct access to on-chain data for accurate transaction analysis and insights.
+- **AI-Powered Trading Assistance**: On-demand AI recommendations and alerts for trading opportunities.
+- **Robust Security**: Implementing best practices in security to protect user data and transactions.
+
+---
 
 ## MVP (Ordinal API Invoke)
 ![GXlrj3HbUAAF6yJ](https://github.com/user-attachments/assets/b65a77f3-4038-47b0-9cbf-0c2a05f94b62)
@@ -40,9 +69,8 @@ Q: What is pair address?
 Q: Buy me 100 SOL of PopCat.
 ```
 
-! `wallet connect` is not supported with `http`.
-### BE code is private.
+---
 
 ## Support
-
+This has backend repo more and that is private for now. <br/>
 For support and further inquiries, please connect via Telegram: [jwest951227](https://t.me/jwest951227).
