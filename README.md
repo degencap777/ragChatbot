@@ -38,39 +38,31 @@ This module analyzes the collected data to provide actionable insights:
 ![GXqJM0GboAEmvu2](https://github.com/user-attachments/assets/446e5111-10f0-46a0-9739-656967b3a865)
 ![GXyALPUakAIoj3U](https://github.com/user-attachments/assets/6d82a586-2e99-4e3d-b282-cfdeda300a4b)
 
-
-## MVP (Solana Token Buy/Sell)
-![GZCY7bQbQAAlZab](https://github.com/user-attachments/assets/42228272-fa66-4bc9-bcd3-89afba12f9b9)
-![GZZdI7masAIP0Gy](https://github.com/user-attachments/assets/59c207cf-2dc7-43d9-a227-ffdf4d50cc95)
-![GZ2TA0HaoAA2Xbz](https://github.com/user-attachments/assets/d2f209b5-52f4-4af1-92d8-08c96e5b1fb7)
-
-
 ## Test with some questions
 ```
-Q: Find me all the details on token Billy from the list.
+Q: Can you provide all the details on token Charlie from the list?
 ```
 ```
-Q: What is the price of Popcat?
+Q: What is the current market price of DogeBlast?
 ```
 ```
-Q: Ok, so what is current volume of Popcat?
+Q: Could you tell me the trading volume for DogeBlast today?
 ```
 ```
-Q: Ok so how many holders does Popcat have?
+Q: How many active holders does DogeBlast have right now?
 ```
 ```
-Q: Is there more buying than selling of Popcat today?
+Q: Is there a higher number of buyers compared to sellers for DogeBlast today?
 ```
 ```
-Q: What is the CA?
+Q: What is the contract address for DogeBlast?
 ```
 ```
-Q: What is pair address?
+Q: Can you give me the liquidity pair address for DogeBlast?
 ```
 ```
-Q: Buy me 100 SOL of PopCat.
+Q: Please purchase 200 ETH worth of DogeBlast for me.
 ```
-
 ---
 
 ## Support
